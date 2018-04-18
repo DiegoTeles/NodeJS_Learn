@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/DiegoTeles/NodeJS_Learn/issues"
   },
-  "homepage": "https://github.com/DiegoTeles/NodeJS_Learn#readme"
+  "homepage": "https://github.com/DiegoTeles/NodeJS_Learn#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
 }
